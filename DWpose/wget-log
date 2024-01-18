@@ -1,0 +1,12 @@
+--2024-01-05 21:17:21--  https://github.com/patrickvonplaten/controlnet_aux/blob/master/src/controlnet_aux/dwpose/dwpose_config/dwpose-l_384x288.py
+Resolving github.com (github.com)... 140.82.113.4
+Connecting to github.com (github.com)|140.82.113.4|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 57536 (56K) [text/plain]
+Saving to: ‘dwpose-l_384x288.py’
+
+     0K .......... .......... .......... .......... .......... 88% 10.6M 0s
+    50K ......                                                100%  260M=0.005s
+
+2024-01-05 21:17:21 (11.8 MB/s) - ‘dwpose-l_384x288.py’ saved [57536/57536]
+
